@@ -1,4 +1,5 @@
 # Configuració del sistema de virtualització (IsardVDI):
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/Captura%20de%20pantalla%20de%202025-11-21%2014-28-59.png)
 
 
 
