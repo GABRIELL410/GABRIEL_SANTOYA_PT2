@@ -1,10 +1,10 @@
 Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP) a Ubuntu 24.04, segueix aquests passos detallats. Aquesta guia assumeix que comences amb un sistema net d’Ubuntu 24.04 i tens privilegis sudo.
 
-1. Actualitza el sistema
+# 1. Actualitza el sistema
 
 - sudo apt update && sudo apt upgrade -y
 
-2. Instal·la Apache
+# 2. Instal·la Apache
 - sudo apt install apache2 -y
 - Activa i inicia el servei:
 
@@ -16,7 +16,7 @@ Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP) a Ubuntu 24.04, seguei
 sudo systemctl status apache2
 Visita http://localhost per veure la pàgina per defecte d’Apache.
 
-3. Instal·la MySQL
+# 3. Instal·la MySQL
 Ubuntu 24.04 ja inclou el paquet mysql-server als repositoris oficials (versió 8.0 o superior):
 
 sudo apt install mysql-server mysql-client -y
@@ -40,7 +40,7 @@ FLUSH PRIVILEGES;
 EXIT;
 Nota: Aquest usuari només pot connectar-se des del servidor local (localhost), cosa que és suficient si l’aplicació web i la base de dades estan al mateix servidor.
 
-4. Instal·la PHP i extensions comunes
+# 4. Instal·la PHP i extensions comunes
 
 Ubuntu 24.04 inclou PHP 8.3 als repositoris estàndard:
 
