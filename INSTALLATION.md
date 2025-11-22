@@ -36,7 +36,7 @@ la que hem escollit ha sigut 	ubuntu-24.04-desktop, que ens pemet instalar el ne
 
 
 
-. Ara tenim que instalar el Nextcloud
+# Ara tenim que instalar el Nextcloud
 
 
 
