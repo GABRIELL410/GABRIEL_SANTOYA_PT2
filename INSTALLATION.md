@@ -3,7 +3,7 @@
 # 1. en aquest apartat hem de registrar-nos en IsardVDI
 una vegada estiguem dintre, li donarem al boto blau que esta en la esquena dreta, que posa 'escriptori nou'. 
 # 2. posar el nom que volem a la nostra maquina virtual
-jo he posat el meu nom propi
+jo he posat el meu nom propi, pero es pot posar qualsevol nom.
 
 # 3. Escollir alguna de les versions que hi ha
 la que hem escollit ha sigut 	ubuntu-24.04-desktop, que ens pemet instalar el nextcloud.
@@ -36,9 +36,7 @@ la que hem escollit ha sigut 	ubuntu-24.04-desktop, que ens pemet instalar el ne
 
 
 
-
-
-
+. Ara tenim que instalar el Nextcloud
 
 
 
