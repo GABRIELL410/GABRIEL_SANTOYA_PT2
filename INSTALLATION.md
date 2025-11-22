@@ -1,5 +1,6 @@
 # Configuració del sistema de virtualització (IsardVDI):
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/Captura%20de%20pantalla%20de%202025-11-21%2014-28-59.png)
+en aquest apartat hem de registrar-nos en IsardVDI, una vegada estiguem dintre, li donarem al boto blau que esta en la esquena dreta, que posa 'escriptori nou'. El primer que farem una vegada estiguem dintre es, posar el nom que volem a la nostra maquina virtual, jo he posat el meu nom propi, despres hem d'escollir alguna de les versions que hi ha la que hem escollit ha sigut 	ubuntu-24.04-desktop, que ens pemet instalar el nextcloud.
 
 
 
@@ -35,7 +36,6 @@
 
 
 
-Per instal·lar una pila LAMP (Linux, Apache, MySQL, PHP) a Ubuntu 24.04, segueix aquests passos detallats. Aquesta guia assumeix que comences amb un sistema net d’Ubuntu 24.04 i tens privilegis sudo.
 
 # 1. Actualitza el sistema
 
