@@ -1,4 +1,4 @@
 per poder afegir documents o imatges al núvol hem de fer el seguent
-[Nextcloud](https://github.com/user-attachments/assets/bbb1bedf-3bad-4b32-81ea-4ce6fc7a309a)
+(https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg)
 
 
