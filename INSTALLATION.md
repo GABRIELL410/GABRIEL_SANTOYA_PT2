@@ -69,7 +69,7 @@ sudo systemctl enable mysql
 sudo systemctl start mysql
 
 # Configura de MySQL:
-copiar este codigo para poder configurar MySQL
+copiar aquest codigo per poder configurar MySQL
 
 Accés a la consola de MySQL
 sudo mysql
