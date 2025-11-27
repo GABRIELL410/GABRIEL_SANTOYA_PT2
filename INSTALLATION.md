@@ -70,6 +70,7 @@ sudo systemctl start mysql
 
 # Configura de MySQL:
 copiar este codigo para poder configurar MySQL
+
 Accés a la consola de MySQL
 sudo mysql
 Creació de la base de dades
