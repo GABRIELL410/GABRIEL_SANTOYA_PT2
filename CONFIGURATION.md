@@ -14,3 +14,7 @@ aqui podeu veure com es queda guardat correctamente sense ningun error.
 
 Una vegada li haguem donat a new folder nomès hem de posar el nombre que nosaltres volguem
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/nombre%20carpeta.png)
+
+# Compartir continguts: Documentar com generar enllaços compartits o compartir fitxers directament amb altres usuaris.
+l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i una persona 
+
