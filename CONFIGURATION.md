@@ -7,3 +7,6 @@ despres de donarli a new, sortiran aquestes 2 opcion
 desprès seleccionem la imatge o document que nosaltres volguem jo he escollit una imatge de un martell, peró es pot escollir qualsevol
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(5).jpg)
 aqui podeu veure com es queda guardat correctamente sense ningun error.
+# Com crear una carpeta
+per poder crear un carpeta hem de seguir els passos anterios y quan li donem a "new" hem de seleccionar aquesta opció
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/crear%20carpeta.png)
