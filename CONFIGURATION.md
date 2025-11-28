@@ -11,3 +11,6 @@ aqui podeu veure com es queda guardat correctamente sense ningun error.
 
 - per poder crear un carpeta hem de seguir els passos anterios y quan li donem a "new" hem de seleccionar aquesta opció
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/crear%20carpeta.png)
+
+Una vegada li haguem donat a new folder nomès hem de posar el nombre que nosaltres volguem
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/nombre%20carpeta.png)
