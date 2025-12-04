@@ -9,15 +9,15 @@ desprès seleccionem la imatge o document que nosaltres volguem jo he escollit u
 aqui podeu veure com es queda guardat correctamente sense ningun error.
 # Com crear una carpeta
 
-- per poder crear un carpeta hem de seguir els passos anterios y quan li donem a "new" hem de seleccionar aquesta opció
+**per poder crear un carpeta hem de seguir els passos anterios y quan li donem a "new" hem de seleccionar aquesta opció**
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/crear%20carpeta.png)
 
-Una vegada li haguem donat a new folder nomès hem de posar el nombre que nosaltres volguem
+**Una vegada li haguem donat a new folder nomès hem de posar el nombre que nosaltres volguem**
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/nombre%20carpeta.png)
 ![]
 # Compartir continguts: Documentar com generar enllaços compartits o compartir fitxers directament amb altres usuaris.
 
-l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i una persona 
+**l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i una persona**
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(1).jpg)
 
 # Creació d'usuaris
