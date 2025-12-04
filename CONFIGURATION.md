@@ -63,5 +63,7 @@
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(1).jpg)
 
-**ara tenim que posar els permissos per cadascuns dels usuaris**
+**ara tenim que posar els permissos per cadascuns dels usuaris per aixo hem de fer click en aquesta fletxa blava i ens apareixera els permissos que volem posarli a cadascun com per exemple poder editar, solo ver, configurar permissos.**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(2).jpg)
 
