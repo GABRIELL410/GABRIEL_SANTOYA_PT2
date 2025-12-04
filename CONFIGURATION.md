@@ -87,6 +87,6 @@
 
 Yo he creat una carpeta que es diu Documents Personals i he creat aquqesta carpeta per tenir organitzada las meves coses i desprès dins d'aquesta carpeta he creat 2 que es diuen NIE i altre que és diu Nómina.
 
-![]()
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/documentos%20personale.jpg)
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(8).jpg)
