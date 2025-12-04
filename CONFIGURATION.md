@@ -67,3 +67,7 @@
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(2).jpg)
 
+
+**Aquí configurem els permissos**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(3).jpg)
