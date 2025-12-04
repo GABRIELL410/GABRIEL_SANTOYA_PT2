@@ -54,3 +54,8 @@
 **i seleccionem els permisos que volem posarli**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(9).jpg)
+
+**En l'apartat de files li donem a l'icon de la persona amb un simbol de més
+
+
+
