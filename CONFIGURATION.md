@@ -14,7 +14,7 @@
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(5).jpg)
 
-**aqui podeu veure com es queda guardat correctamente sense ningun error.**
+**aqui podeu veure com es queda guardat correctamente sense cap error.**
 
 
 # Com crear una carpeta
