@@ -59,3 +59,9 @@
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder.jpg)
 
+**Una vegada li donem hem d'escriure en "Admin" i seleccionem el que ens surt**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(1).jpg)
+
+**ara tenim que posar els permissos per cadascuns dels usuaris**
+
