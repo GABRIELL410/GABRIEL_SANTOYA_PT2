@@ -36,3 +36,7 @@ i tenim que completar els següents apartats
 despres hem de crear 2 grups, un de visualització i altre per editors.
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(6).jpg)
+
+quan hagim creat els 2 grups el que tenim que fer es donarli a l'icon del llapis per edir i poder donarli els permisos
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(7).jpg)
