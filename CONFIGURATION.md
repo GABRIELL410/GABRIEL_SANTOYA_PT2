@@ -21,22 +21,26 @@ l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i un
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(1).jpg)
 
 # Creació d'usuaris
-Tenim que acceir a l'apartat de acounts 
+**Tenim que acceir a l'apartat de acounts**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(3).jpg)
 
-despres fem click en new account
+**despres fem click en new account**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(4).jpg)
 
-i tenim que completar els següents apartats
+**i tenim que completar els següents apartats**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(5).jpg)
 
-despres hem de crear 2 grups, un de visualització i altre per editors.
+**despres hem de crear 2 grups, un de visualització i altre per editors.**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(6).jpg)
 
-quan hagim creat els 2 grups el que tenim que fer es donarli a l'icon del llapis per edir i poder donarli els permisos
+**quan hagim creat els 2 grups el que tenim que fer es donarli a l'icon del llapis per edir i poder donarli els permisos**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(7).jpg)
+
+**i seleccionem els permisos que volem posarli**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(9).jpg)
