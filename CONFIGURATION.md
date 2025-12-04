@@ -71,3 +71,11 @@
 **Aquí configurem els permissos**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(3).jpg)
+
+# Demostrar l’efecte dels permisos
+
+**Aquí podeu veure que quan inicio sesió desde les altres comptes, per exemple desde visualitzador no em deixa modificar els permissos ni editar, i quan entro en la altre compte que la tinc configurada com editor nomès em deixa editar.**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(4).jpg)
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(5).jpg)
