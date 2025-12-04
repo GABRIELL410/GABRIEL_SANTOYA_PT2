@@ -24,3 +24,7 @@ l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i un
 Tenim que acceir a l'apartat de acounts 
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(3).jpg)
+
+despres fem click en new account
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(4).jpg)
