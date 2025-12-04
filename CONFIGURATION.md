@@ -20,3 +20,4 @@ Una vegada li haguem donat a new folder nomès hem de posar el nombre que nosalt
 l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i una persona 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(1).jpg)
 
+# Creació d'usuaris
