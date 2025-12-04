@@ -1,6 +1,4 @@
-# Practica 2
-Primero te registras en IsardVDI una vez entres, arriba a la derecha le das donde pone "Escritorio Nuevo", luego le pones el nombre que quieres y seleccionas la plantilla que quieras tambien.
-
+![ENLLAÇ CONFIGURATION](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/CONFIGURATION.md)
 
 
 
