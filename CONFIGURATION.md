@@ -89,4 +89,4 @@ Yo he creat una carpeta que es diu Documents Personals i he creat aquqesta carpe
 
 ![]()
 
-![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(7).jpg)
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(8).jpg)
