@@ -1,4 +1,4 @@
-# 1 Afegir documents o imatges al núvol
+# 4 Afegir documents o imatges al núvol
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg)
 
@@ -30,7 +30,7 @@
 **l'unic que necessitem feres clickar en el simbol que hi ha un signe de més i una persona**
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(1).jpg)
 
-# 2  Creació d'usuaris
+# 5  Creació d'usuaris
 **Tenim que acceir a l'apartat de acounts**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(3).jpg)
@@ -65,7 +65,7 @@
 
 **ara tenim que posar els permissos per cadascuns dels usuaris per aixo hem de fer click en aquesta fletxa blava i ens apareixera els permissos que volem posarli a cadascun com per exemple poder editar, solo ver, configurar permissos.**
 
-# 3 Assignació de rols i permisos
+# 6 Assignació de rols i permisos
 
 **Administrador (Admin)**
 Té control complet sobre el sistema. Pot crear, canviar i eliminar qualsevol arxiu, així com gestionar els usuaris i els seus rols. També pot modificar la configuració general. És el nivell d’accés més alt.
