@@ -65,7 +65,8 @@
 
 **ara tenim que posar els permissos per cadascuns dels usuaris per aixo hem de fer click en aquesta fletxa blava i ens apareixera els permissos que volem posarli a cadascun com per exemple poder editar, solo ver, configurar permissos.**
 
-**Assignació de rols i permisos**
+# 3 Assignació de rols i permisos
+
 **Administrador (Admin)**
 Té control complet sobre el sistema. Pot crear, canviar i eliminar qualsevol arxiu, així com gestionar els usuaris i els seus rols. També pot modificar la configuració general. És el nivell d’accés més alt.
 
@@ -90,7 +91,7 @@ Només pot veure els arxius i consultar la informació. No pot crear, editar ni 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(5).jpg)
 
 
-# Administració d’arxius
+# 7 Administració d’arxius
 
 # Organització de carpetes i fitxers
 
@@ -112,7 +113,7 @@ Només pot veure els arxius i consultar la informació. No pot crear, editar ni 
 
 **i ya tindriam les polítiques de seguretat perque ningú estrany pugui acceir**
 
-# Accés des d’una màquina qualsevol de la xarxa
+# 8 Accés des d’una màquina qualsevol de la xarxa
 
 **Per entrar al teu Nextcloud des d’un altre ordinador només has de saber l’adreça IP de la màquina on està instal·lat i escriure-la al navegador. Si el servidor està encès i funciona, veuràs la pantalla per iniciar sessió.
 Per mirar els fitxers dels teus companys necessites la seva IP, usuari i contrasenya. Afegeixes el seu Nextcloud com a compte extern i les seves carpetes apareixen al teu, igual que si fossin teves.**
