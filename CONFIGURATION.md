@@ -85,8 +85,25 @@
 
 # Organització de carpetes i fitxers
 
-Yo he creat una carpeta que es diu Documents Personals i he creat aquqesta carpeta per tenir organitzada las meves coses i desprès dins d'aquesta carpeta he creat 2 que es diuen NIE i altre que és diu Nómina.
+**Yo he creat una carpeta que es diu Documents Personals i he creat aquqesta carpeta per tenir organitzada las meves coses i desprès dins d'aquesta carpeta he creat 2 que es diuen NIE i altre que és diu Nómina.**
 
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/documentos%20personale.jpg)
-
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(8).jpg)
+
+
+# Polítiques de seguretat
+
+**Tenim que escollir el document que volem compartir una vegada lo hagim escollit tenim que donarli a l'icon de compartir quan estem ahi li donem a "create public link" y a "customize link" i posem una contrasenya i una data de venciment i d'aquesta manera no pot entrar qualsevol als meus documents personals.**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/documentos%20personale%20(2).jpg)
+
+**i desprès posem la contrasenya i data que volguem**
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/documentos%20personale%20(3).jpg)
+
+**i ya tindriam les polítiques de seguretat perque ningú estrany pugui acceir**
+
+# Accés des d’una màquina qualsevol de la xarxa
+
+**Per entrar al teu Nextcloud des d’un altre ordinador només has de saber l’adreça IP de la màquina on està instal·lat i escriure-la al navegador. Si el servidor està encès i funciona, veuràs la pantalla per iniciar sessió.
+Per mirar els fitxers dels teus companys necessites la seva IP, usuari i contrasenya. Afegeixes el seu Nextcloud com a compte extern i les seves carpetes apareixen al teu, igual que si fossin teves.**
