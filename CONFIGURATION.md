@@ -30,4 +30,9 @@ despres fem click en new account
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(4).jpg)
 
 i tenim que completar els següents apartats
+
 ![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(5).jpg)
+
+despres hem de crear 2 grups, un de visualització i altre per editors.
+
+![](https://github.com/GABRIELL410/GABRIEL_SANTOYA_PT2/blob/main/New%20folder%20(6).jpg)
